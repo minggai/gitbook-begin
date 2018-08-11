@@ -5,5 +5,6 @@
 * [运行](yun-xing.md)
 * [gitbook桌面编辑器](gitbookzhuo-mian-bian-ji-qi.md)
   * [登陆](gitbookzhuo-mian-bian-ji-qi/deng-lu.md)
+  * [同步](gitbookzhuo-mian-bian-ji-qi/tong-bu.md)
 * [导出PDF](dao-chu-pdf.md)
 
