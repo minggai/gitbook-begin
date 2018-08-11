@@ -16,5 +16,5 @@ $ npm install gitbook -g
 
 直接运行，自动安装。
 
-gitbook桌面编辑器的账号登陆存在问题，在gitbook网页注册的账号无法登陆，直接忽略登陆。
+
 
