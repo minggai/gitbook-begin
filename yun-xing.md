@@ -1,4 +1,4 @@
-运行
+# 运行
 
 以管理员身份运行cmd，避免权限问题导致报错。
 
@@ -17,7 +17,6 @@ book/
  directories, 
 2
  files
-
 ```
 
 README.md 和 SUMMARY.md 是两个必须文件，README.md 是对书籍的简单介绍：
@@ -29,7 +28,6 @@ $ cat book/README.md
 
 
 This is a book powered by [GitBook](https://github.com/GitbookIO/gitbook).
-
 ```
 
 SUMMARY.md 是书籍的目录结构。内容如下：
@@ -52,7 +50,6 @@ $ cat book/SUMMARY.md
 2
 .md)
 * [Chapter2](chapter2/README.md)
-
 ```
 
 创建了这两个文件后，使用`gitbook init`，它会为我们创建 SUMMARY.md 中的目录结构。
@@ -82,7 +79,6 @@ $ tree
  directories, 
 6
  files
-
 ```
 
 注意：在我的实验中，`gitbook init`只支持**两级**目录！
