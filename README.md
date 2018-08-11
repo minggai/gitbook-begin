@@ -1,3 +1,4 @@
-# My Awesome Book
+# 概述
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+本教程仅适用于windows系统，文档基于[gitbook](https://github.com/GitbookIO/gitbook/)进行构建。
+
