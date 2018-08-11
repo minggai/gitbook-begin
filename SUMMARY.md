@@ -7,4 +7,5 @@
   * [登陆](gitbookzhuo-mian-bian-ji-qi/deng-lu.md)
   * [同步](gitbookzhuo-mian-bian-ji-qi/tong-bu.md)
 * [导出PDF](dao-chu-pdf.md)
+* [从github拉取book](cong-github-la-qu-book.md)
 
