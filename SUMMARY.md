@@ -10,4 +10,5 @@
 * [从github拉取book](cong-github-la-qu-book.md)
 * [发布到github](fa-bu-dao-github.md)
   * [使用gh-pages工具](fa-bu-dao-github/shi-yonggh-pages-gong-ju.md)
+  * [手动发布](fa-bu-dao-github/shou-dong-fa-bu.md)
 
