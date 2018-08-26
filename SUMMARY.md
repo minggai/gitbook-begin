@@ -8,4 +8,6 @@
   * [同步](gitbookzhuo-mian-bian-ji-qi/tong-bu.md)
 * [导出PDF](dao-chu-pdf.md)
 * [从github拉取book](cong-github-la-qu-book.md)
+* [发布到github](fa-bu-dao-github.md)
+  * [使用gh-pages工具](fa-bu-dao-github/shi-yonggh-pages-gong-ju.md)
 
