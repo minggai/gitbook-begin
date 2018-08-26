@@ -14,5 +14,3 @@
 
 ![](https://einverne.github.io/gitbook-tutorial/imgs/gh-pages-setting.png "Github Pages")
 
-Image - Github Pages
-
